@@ -1,0 +1,22 @@
+.reveal{
+    font-size: 22px;
+}
+
+.reveal p {
+    text-align: left;
+}
+
+.reveal h2 {
+    text-align: left;
+}
+.reveal h3 {
+    text-align: left;
+}
+.reveal ul {
+    display: block;
+}
+
+.reveal ol {
+    display: block;
+}
+
